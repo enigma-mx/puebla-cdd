@@ -1,0 +1,14 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+# 
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Alphabetical list
+
+Alex Blanco <alex@enigma.mx>
+Fernanda Olea <fer.olea@enigma.mx>
+Isaías Loaiza <isaias@enigma.mx>
+Jaime Martínez <jaime@enigma.mx>
+Enigma Diseño S.A. de C.V.
