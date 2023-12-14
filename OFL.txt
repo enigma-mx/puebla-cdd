@@ -1,4 +1,4 @@
-Copyright 2024 PueblaCDD Authors (https://github.com/isaiasloaiza/PueblaCDD), with Reserved Font Name "PueblaCDD".
+Copyright 2024 PueblaCDD Authors (https://github.com/enigma-mx/puebla-cdd), with Reserved Font Name "PueblaCDD".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
